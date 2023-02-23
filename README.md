@@ -15,4 +15,4 @@ I hope this profession will let me start a new carrier and apply the knowledge a
 
 Me looking to a bright future :)
 
-![Me looking to a bright future :)](file:///C:/Users/kcat5/Desktop/QA home tasks/GIT/GitHub Pages site/Фото1.jpg)
+![Me looking to a bright future :)](https://github.com/Katya6568/GitHub-Pages-Site/blob/main/%D0%A4%D0%BE%D1%82%D0%BE1.jpg)

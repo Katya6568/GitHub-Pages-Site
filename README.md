@@ -13,6 +13,6 @@ I'm studying in Netology from the beginning of December and I'm still interested
 
 I hope this profession will let me start a new carrier and apply the knowledge and skills to participate in many exciting and interesting projects. 
 
-Me looking to a bright future :)
+### Me looking to a bright future :)
 
 ![Me looking to a bright future :)](https://github.com/Katya6568/GitHub-Pages-Site/blob/main/%D0%A4%D0%BE%D1%82%D0%BE1.jpg)
